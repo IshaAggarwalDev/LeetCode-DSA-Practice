@@ -1,2 +1,5 @@
-# LeetCode-DSA-Practice
-A collection of my LeetCode problem solutions written in Java. This repository documents my journey of practicing Data Structures and Algorithms for coding interviews and competitive programming. Each solution focuses on optimized time and space complexity.
+# Two Sum
+Problem Link: https://leetcode.com/problems/two-sum/
+Approach: Brute Force
+Time Complexity: O(n²)
+Space Complexity: O(1)
