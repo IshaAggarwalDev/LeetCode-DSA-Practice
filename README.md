@@ -14,6 +14,15 @@ Space Complexity: O(n)
 ### Concepts Used:
 Array Traversal,HashMap,Complement Technique,Single Pass Algorithm,Key-Value Mapping
 
+## 26. Remove Duplicates from Sorted Array
+Problem Link: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+Difficulty: Easy
+### Approach: Two Pointer Technique (Optimized)
+Time Complexity: O(n)
+Space Complexity: O(1)
+### Concepts Used:
+Two Pointer Technique, In-Place Modification, Sorted Array Property, Single Pass Algorithm
+
 ## 49. Group Anagrams
 Problem Link: https://leetcode.com/problems/group-anagrams/
 Difficulty: Medium
