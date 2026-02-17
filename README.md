@@ -41,6 +41,15 @@ Space Complexity: O(n)
 ### Concepts Used:
 HashSet, Sequence Pattern, Array Traversal
 
+## 268. Missing Number
+Problem Link: https://leetcode.com/problems/missing-number/
+Difficulty: Easy
+### Approach: Mathematical Formula (Sum Formula)
+Time Complexity: O(n)
+Space Complexity: O(1)
+### Concepts Used:
+Mathematical Formula, Arithmetic Series, Array Traversal, Summation Technique
+
 ## 523. Continuous Subarray Sum
 Problem Link: https://leetcode.com/problems/continuous-subarray-sum/
 Difficulty: Medium
