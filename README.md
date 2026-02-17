@@ -1,4 +1,4 @@
-# Arrays
+<img width="579" height="393" alt="image" src="https://github.com/user-attachments/assets/c10f24d4-2fd0-48b5-ac2f-c84651b77ca0" /># Arrays
 
 ## 1. Two Sum
 Problem Link: https://leetcode.com/problems/two-sum/
@@ -13,15 +13,14 @@ Time Complexity: O(n)
 Space Complexity: O(n)
 ### Concepts Used:
 Array Traversal,HashMap,Complement Technique,Single Pass Algorithm,Key-Value Mapping
-
-## 560. Subarray Sum Equals K
-Problem Link: https://leetcode.com/problems/subarray-sum-equals-k/
+## 49. Group Anagrams
+Problem Link: https://leetcode.com/problems/group-anagrams/
 Difficulty: Medium
-### Approach: Prefix Sum + HashMap (Optimized)
-Time Complexity: O(n)
-Space Complexity: O(n)
+### Approach: Sorting + HashMap
+Time Complexity: O(n × k log k)
+Space Complexity: O(n × k)
 ### Concepts Used:
-Prefix Sum, HashMap, Subarray Pattern
+Array Traversal,String Manipulation,Sorting,HashMap,Grouping Pattern
 
 ## 128. Longest Consecutive Sequence
 Problem Link: https://leetcode.com/problems/longest-consecutive-sequence/
@@ -40,3 +39,12 @@ Time Complexity: O(n)
 Space Complexity: O(n)
 ### Concepts Used:
 Prefix Sum, HashMap, Modulo Arithmetic, Subarray Pattern
+
+## 560. Subarray Sum Equals K
+Problem Link: https://leetcode.com/problems/subarray-sum-equals-k/
+Difficulty: Medium
+### Approach: Prefix Sum + HashMap (Optimized)
+Time Complexity: O(n)
+Space Complexity: O(n)
+### Concepts Used:
+Prefix Sum, HashMap, Subarray Pattern
