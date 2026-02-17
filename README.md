@@ -32,6 +32,15 @@ Space Complexity: O(n × k)
 ### Concepts Used:
 Array Traversal,String Manipulation,Sorting,HashMap,Grouping Pattern
 
+## 88. Merge Sorted Array
+Problem Link: https://leetcode.com/problems/merge-sorted-array/
+Difficulty: Easy
+### Approach: Two Pointers (Backward Merge)
+Time Complexity: O(m + n)
+Space Complexity: O(1)
+### Concepts Used:
+Two Pointers, Array Traversal, In-Place Algorithm, Backward Iteration, Merging Technique
+
 ## 121. Best Time to Buy and Sell Stock
 Problem Link: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 Difficulty: Easy
