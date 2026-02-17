@@ -130,3 +130,12 @@ Time Complexity: O(log n)
 Space Complexity: O(1)
 ### Concepts Used:
 Divide and Conquer,Sorted Array Requirement,Two Pointers (Low & High),Mid Calculation,Half Search Space Reduction
+
+## 2396. Strictly Palindromic Number
+Problem Link: https://leetcode.com/problems/strictly-palindromic-number/
+Difficulty: Medium
+### Approach: Mathematical Observation (Trick Problem)
+Time Complexity: O(1)
+Space Complexity: O(1)
+### Concepts Used:
+Number Theory, Base Conversion Concept, Mathematical Proof, Logical Deduction
