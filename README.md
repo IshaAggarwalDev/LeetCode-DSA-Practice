@@ -14,6 +14,15 @@ Space Complexity: O(n)
 ### Concepts Used:
 Array Traversal,HashMap,Complement Technique,Single Pass Algorithm,Key-Value Mapping
 
+## 11. Container With Most Water
+Problem Link: https://leetcode.com/problems/container-with-most-water/
+Difficulty: Medium
+### Approach: Two Pointers (Greedy Optimization)
+Time Complexity: O(n)
+Space Complexity: O(1)
+### Concepts Used:
+Two Pointers, Greedy Strategy, Area Calculation, Width–Height Optimization, Pointer Movement Logic
+
 ## 26. Remove Duplicates from Sorted Array
 Problem Link: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 Difficulty: Easy
@@ -31,6 +40,24 @@ Time Complexity: O(n × k log k)
 Space Complexity: O(n × k)
 ### Concepts Used:
 Array Traversal,String Manipulation,Sorting,HashMap,Grouping Pattern
+
+## 53. Maximum Subarray
+Problem Link: https://leetcode.com/problems/maximum-subarray/
+Difficulty: Medium
+### Approach: Kadane’s Algorithm (Dynamic Programming / Greedy)
+Time Complexity: O(n)
+Space Complexity: O(1)
+### Concepts Used:
+Kadane’s Algorithm, Dynamic Programming, Greedy Strategy, Running Sum, Maximum Tracking
+
+## 75. Sort Colors
+Problem Link: https://leetcode.com/problems/sort-colors/
+Difficulty: Medium
+### Approach: Dutch National Flag Algorithm (Three Pointers)
+Time Complexity: O(n)
+Space Complexity: O(1)
+### Concepts Used:
+Three Pointers, Two Pointer Technique, In-Place Sorting, Partitioning Logic, Dutch National Flag Algorithm
 
 ## 88. Merge Sorted Array
 Problem Link: https://leetcode.com/problems/merge-sorted-array/
