@@ -1,4 +1,4 @@
-<img width="579" height="393" alt="image" src="https://github.com/user-attachments/assets/c10f24d4-2fd0-48b5-ac2f-c84651b77ca0" /># Arrays
+# Arrays
 
 ## 1. Two Sum
 Problem Link: https://leetcode.com/problems/two-sum/
@@ -21,6 +21,15 @@ Time Complexity: O(n × k log k)
 Space Complexity: O(n × k)
 ### Concepts Used:
 Array Traversal,String Manipulation,Sorting,HashMap,Grouping Pattern
+
+## 121. Best Time to Buy and Sell Stock
+Problem Link: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+Difficulty: Easy
+### Approach: Greedy (One Pass Optimization)
+Time Complexity: O(n)
+Space Complexity: O(1)
+### Concepts Used:
+Array Traversal,Greedy Strategy,Minimum Tracking,Profit Maximization,Single Pass Algorithm
 
 ## 128. Longest Consecutive Sequence
 Problem Link: https://leetcode.com/problems/longest-consecutive-sequence/
