@@ -59,6 +59,15 @@ Space Complexity: O(1)
 ### Concepts Used:
 Mathematical Formula, Arithmetic Series, Array Traversal, Summation Technique
 
+## 283. Move Zeroes
+Problem Link: https://leetcode.com/problems/move-zeroes/
+Difficulty: Easy
+### Approach: Two Pointers (In-Place Modification)
+Time Complexity: O(n)
+Space Complexity: O(1)
+### Concepts Used:
+Two Pointers, Array Traversal, In-Place Algorithm, Element Shifting, Stable Partitioning
+
 ## 523. Continuous Subarray Sum
 Problem Link: https://leetcode.com/problems/continuous-subarray-sum/
 Difficulty: Medium
