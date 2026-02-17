@@ -3,13 +3,16 @@
 ## 1. Two Sum
 Problem Link: https://leetcode.com/problems/two-sum/
 Difficulty: Easy
-### Approaches
-#### Approach 1: Brute Force
+### Approach 1: Brute Force
 Time Complexity: O(n²)
 Space Complexity: O(1)
-#### Approach 2: HashMap (Optimized)
+### Concepts Used:
+Array Traversal,Nested Loops,Pair Checking
+### Approach 2: HashMap (Optimized)
 Time Complexity: O(n)
 Space Complexity: O(n)
+### Concepts Used:
+Array Traversal,HashMap,Complement Technique,Single Pass Algorithm,Key-Value Mapping
 
 ## 560. Subarray Sum Equals K
 Problem Link: https://leetcode.com/problems/subarray-sum-equals-k/
@@ -28,3 +31,12 @@ Time Complexity: O(n)
 Space Complexity: O(n)
 ### Concepts Used:
 HashSet, Sequence Pattern, Array Traversal
+
+## 523. Continuous Subarray Sum
+Problem Link: https://leetcode.com/problems/continuous-subarray-sum/
+Difficulty: Medium
+### Approach: Prefix Sum + HashMap (Modulo Technique)
+Time Complexity: O(n)
+Space Complexity: O(n)
+### Concepts Used:
+Prefix Sum, HashMap, Modulo Arithmetic, Subarray Pattern
